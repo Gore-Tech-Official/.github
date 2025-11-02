@@ -1,4 +1,4 @@
-## Gore Tech
+# Gore Tech
 
 # Gore Tech is a tech company or ai company,
 
@@ -6,4 +6,4 @@
 
 # [Email/Contact](mailto:goretechcontact@gmail.com) [Website](https://goretech.free.nf)
 
-# © 2025 Gore Tech. All rights reserved.
+## © 2025 Gore Tech. All rights reserved.
