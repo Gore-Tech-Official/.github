@@ -6,4 +6,4 @@
 
 # [Email/Contact](mailto:goretechcontact@gmail.com) [Website](https://goretech.free.nf)
 
-## © 2025 Gore Tech. All rights reserved.
+## © 2026 Gore Tech. All rights reserved.
